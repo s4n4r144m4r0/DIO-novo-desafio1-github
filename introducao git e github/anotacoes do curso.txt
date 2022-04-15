@@ -1,0 +1,7 @@
+##aulas
+
+git
+github
+
+gitbash na pagina é atalho para ir direto do git
+
