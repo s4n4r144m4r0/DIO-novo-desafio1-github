@@ -1,7 +1,13 @@
-##aulas
+#Aulas
 
-git
-github
+1- Na aula 1 fomos introduzidos ao backStage virtual, 
+entendendo como e o que fazer para desenvolver um bom projeto, mesmo para iniciantes as aulas 
+são de fácil entendimento.
+2- Na aula 2 fomos guiados a conhecer a linguagem básica de programação através do portugol.
+3- Na aula 3 fomos introduzidos ao GIT/GITHUB.
+4- Na aula 4 aprendemos a importância do trabalho em equipe, pois para um bom desenvolvimento em SCRUM a equipe deve estar unida,
+e sempre em sintonia para o melhor andamento do projeto.
 
-gitbash na pagina é atalho para ir direto do git
+OBS: as aulas que mais me identifiquei foi as práticas de GIT/GITHUB.
 
+APRENDI MUITO NO PRIMEIRO MÓDULO DE AULAS DA *DIO*
